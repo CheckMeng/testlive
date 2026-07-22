@@ -1,0 +1,31 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+  }
+  
+  #timeDisplay {
+    font-size: 3rem;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #4CAF50;
+    border-radius: 10px;
+    width: fit-content;
+    background-color: white;
+  }
+  
+  footer {
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #ddd;
+  }
